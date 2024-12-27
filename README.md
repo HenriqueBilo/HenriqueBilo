@@ -10,9 +10,9 @@
   Hi, I'm Henrique Bilo, Software Developer from Brazil
   <br>
   <br>
-  🎓 I'm currently studying computer science at UFRGS (University of Rio Grande do Sul)
+  🎓 I have a degree in Computer Science from UFRGS (Federal University of Rio Grande do Sul).
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anythings about it. My favorite language is C#, and I've been working with it for 6 years.
   <br>
   📫 How to reach me: <a href="mailto: hnrqbilo@gmail.com">hnrqbilo@gmail.com</a>
 </p>

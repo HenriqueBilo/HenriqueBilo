@@ -12,7 +12,7 @@
   <br>
   🎓 I have a degree in Computer Science from UFRGS (Federal University of Rio Grande do Sul).
   <br>
-  💻 I love writing code and learn anythings about it. My favorite language is C#, and I've been working with it for 6 years.
+  💻 I love writing code and learn everything about it. My favorite language is C#, and I've been working with it for 6 years.
   <br>
   📫 How to reach me: <a href="mailto: hnrqbilo@gmail.com">hnrqbilo@gmail.com</a>
 </p>
